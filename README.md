@@ -1,2 +1,2 @@
-# Jango
-Jango projects
+# Django
+Django projects
